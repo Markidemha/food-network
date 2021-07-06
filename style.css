@@ -17,13 +17,14 @@ h1{
 .pic-first img{
      width: 80%;
 }
-.link-button{
-     text-decoration: none;
-     background-color: darkorange;
-     padding: 15px 40px;
-     border-radius: 30px;
-     color: black;
-     font-weight: 700;
+.link-button{ 
+    text-decoration: none;
+    background-color: darkorange;
+    padding: 15px 40px;
+    border-radius: 30px;
+    color: black;
+    font-weight: 700;
+     
 }
 p{
     margin-bottom: 25px;
@@ -37,12 +38,41 @@ p{
 .some{
     background-image:url(images/shapes/Frame\ 59.jpg);
     background-repeat: no-repeat;
-   
-}
+   }
 .haha{
     text-align: center;
     width: 700;
     padding-top: 10%;
-
+}
+.last{
+    text-align: center;
+    }
+.two{
+    color:chocolate;
+}
+.experience{
+    display: flex;
+}
+.flex img{
+   width: 100%;
+   border-radius: 20px;
+}
+.flex{
+    box-shadow: 20px 20px 40px gray;
+    width: 60%;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 10%;
+}
+.foo{
+    text-align: center;
+    background-color: black;
+    color: cornsilk;
+padding: 10px;
+    margin-top: 5%;
 }
  
